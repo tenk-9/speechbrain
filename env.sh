@@ -1,0 +1,1 @@
+conda activate ntt-proj.multich-specphase-antispoof.speechbrain
